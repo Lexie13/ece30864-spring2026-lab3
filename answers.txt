@@ -1,1 +1,3 @@
-
+~~~ Question 2 Answer~~~
+Explain the role and responsibilities of Scrum Master vs the Product Owner:
+he Product Owner maximizes value by owning the "what" (product backlog, vision), while the Scrum Master ensures effectiveness by owning the "how" (process, removing impediments, coaching)
