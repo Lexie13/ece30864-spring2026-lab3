@@ -1,1 +1,3 @@
-
+~~~Question 3 Answer~~~
+What are the 3 types of meetings that happen during a sprint cycle?
+The three primary, essential, and mandatory meetings (or events) that occur within a standard Scrum sprint cycle are Sprint Planning, the Daily Scrum (or Stand-up), and the Sprint Review and Retrospective
