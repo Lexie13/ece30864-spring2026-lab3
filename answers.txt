@@ -1,1 +1,4 @@
-
+~~~Question 1 Answer~~~
+What are some of the pros and cons of Agile developement?
+Pros: Values flexibility and transparency 
+Cons: Less predictability and risk of scope creep
