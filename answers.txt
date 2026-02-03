@@ -1,1 +1,3 @@
-
+~~~Question 4 Answer~~~
+Differentiate between Epic, Story, Bug, and task issue types in JIRA:
+Epics represent large, multi-sprint bodies of work broken down into smaller Stories (user-centric features), Tasks (general actionable work), and Bugs (defect fixes). Epics act as containers for these smaller items, which are typically completed within a single sprint.
